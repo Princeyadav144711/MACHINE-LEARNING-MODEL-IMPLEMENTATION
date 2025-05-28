@@ -41,3 +41,7 @@ A crucial aspect of ML model implementation is interpretability and explainabili
 Finally, the trained model is deployed into a production environment where it can accept new data and make real-time predictions. This might involve integrating the model into a web application, a mobile app, or a backend service. Deployment tools and frameworks such as Flask, FastAPI, or Docker are often used for this purpose.
 
 In conclusion, the implementation of a machine learning model is a systematic process involving data preparation, model training, evaluation, and deployment. It showcases the practical application of AI to solve complex problems and automate decision-making. With the rapid advancements in tools and accessibility, ML model implementation has become a key skill in data science, contributing significantly to innovation across industries such as healthcare, finance, e-commerce, and education.
+
+OUTPUT:-
+
+![Image](https://github.com/user-attachments/assets/bee4e308-70c4-4f8f-a4a4-76276ae1e63e)
